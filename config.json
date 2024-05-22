@@ -1,0 +1,12 @@
+{
+    "clientId": "1236588885014872167",
+    "guildId": "1236586017734135818",
+    "token": "botuntokenigir",
+    "premiumRoleId": "1236716915788091422",
+    "premiumChannelId": "1236717140632141874",
+    "freeChannelId": "1236738655922552904",
+    "freeRoleId": "1236716893394567249",
+    "freeCooldown": 3000,
+    "premiumCooldown": 15000
+  }
+  
